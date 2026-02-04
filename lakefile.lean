@@ -4,7 +4,7 @@ open Lake DSL
 package «afferent-worldmap» where
   version := v!"0.1.0"
 
-require afferent from git "https://github.com/nathanial/afferent" @ "v0.0.15"
+require afferent from git "https://github.com/nathanial/afferent" @ "v0.0.16"
 require tileset from git "https://github.com/nathanial/tileset" @ "v0.0.2"
 require crucible from git "https://github.com/nathanial/crucible" @ "v0.0.10"
 
