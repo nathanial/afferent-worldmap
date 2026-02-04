@@ -1,5 +1,4 @@
+import Worldmap
+
 namespace AfferentWorldmap
-
--- Your code here
-
 end AfferentWorldmap
